@@ -1,0 +1,9 @@
+**/archive-contents
+**/pubring.kbx
+**/pubring.kbx~
+**/trustdb.gpg
+26.1/develop/archives/melpa/archive-contents
+26.1/develop/archives/org/archive-contents
+gnupg/pubring.kbx
+gnupg/pubring.kbx~
+gnupg/trustdb.gpg
